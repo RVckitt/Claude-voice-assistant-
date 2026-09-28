@@ -32,7 +32,7 @@ flowchart LR
 ## Install (CachyOS / Arch)
 
 ```bash
-git clone https://github.com/<you>/vox-assistant.git
+git clone https://github.com/RVckitt/Claude-voice-assistant-.git vox-assistant
 cd vox-assistant
 ./install.sh
 ```
