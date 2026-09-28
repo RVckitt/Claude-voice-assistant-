@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Vox
+GenericName=Voice Assistant
+Comment=Say "hey claude" and talk to Claude
+Exec=@VOX@
+Icon=vox
+Terminal=false
+Categories=Utility;Accessibility;
+Keywords=voice;assistant;claude;speech;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
